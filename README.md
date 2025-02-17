@@ -1,1 +1,1 @@
-# Google Colab Image Classifier Example Code
+# Image Classifier Example Code
