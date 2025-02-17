@@ -1,1 +1,1 @@
-# NewTrial
+# Google Colab Image Classifier Example Code
